@@ -1,0 +1,7 @@
+﻿User-agent: *
+Disallow: /ANAM3.0/
+Disallow: /eBooks/
+Disallow: /images/
+Disallow: /scripts/
+Disallow: /styles/
+Disallow: /WebDev
